@@ -42,6 +42,6 @@ I believe that **quality is non-negotiable** in game development. Here’s how I
 
 I'm always looking to collaborate, learn, and share insights on game development. Feel free to reach out!
 
-- **Email:** [your.email@example.com](mailto:kamshu00@gmail.com)
+- **Email:** [kamshu00@gmail.com](mailto:kamshu00@gmail.com)
 
 *Let's build something extraordinary together!*
